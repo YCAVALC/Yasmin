@@ -1,0 +1,92 @@
+# Development of a Bus Prototype: Quality Gates Process
+
+## Project Overview
+This project showcases the development process of a bus prototype using the **Quality Gates (QG)** framework. The objective is to demonstrate how quality control is applied at each stage, from concept to project completion, leveraging specific tools and methodologies.
+
+---
+
+## Project Structure
+
+### **QG10: Concept**
+- **Process Steps:**
+  - Client meetings to identify requirements.
+  - Market analysis and marketing strategy definition.
+  - Initial sales planning.
+- **Tools Used:**
+  - **BD** (Internal Database).
+  - **MainFrame**.
+- **Deliverables:**
+  - Initial concept report.
+  - Financial feasibility analysis (3-year payback period).
+
+### **QG7: Project Planning**
+- **Process Steps:**
+  - Development of the **Feature Project List (FPL)**.
+  - Structural calculations to ensure technical feasibility.
+  - Supplier development and material acquisition.
+- **Tools Used:**
+  - **Mobaproj (MainFrame)**, **NX**, **DMU**, **Smaragd**, **BD**.
+- **Deliverables:**
+  - Comprehensive project documentation, including suppliers and technical specifications.
+
+### **QG5: Prototype Construction**
+- **Process Steps:**
+  - Physical construction of the prototype.
+  - Functional testing and performance analysis.
+- **Tools Used:**
+  - **DMU/NX** for construction.
+  - **Matlab** for testing.
+- **Deliverables:**
+  - Fully functional prototype validated for the next phase.
+
+### **QG3: Documentation and Industrialization**
+- **Process Steps:**
+  - Review and validation of technical documentation.
+  - Planning for the industrialization of parts (3 to 6 months).
+- **Tools Used:**
+  - **DMU**, **External tools**.
+- **Deliverables:**
+  - Final documentation.
+  - Preparation for mass production.
+
+### **QG1/QG0: Production and Finalization**
+- **Process Steps:**
+  - Start of production (SOP).
+  - Monitoring of the first year of series production.
+  - Management of recalls and continuous improvements.
+- **Tools Used:**
+  - **MainFrame**, **BD**.
+- **Deliverables:**
+  - Final product delivered to the market.
+  - Project completion report.
+
+---
+
+## Expected Outcomes
+- Efficient implementation of the prototype development process.
+- Quality assurance throughout all project phases.
+- Comprehensive documentation to facilitate the transition from prototype to mass production.
+
+---
+
+## Technologies and Tools Utilized
+- **NX** and **DMU**: CAD modeling and simulation.
+- **Matlab**: Functional testing and data analysis.
+- **Smaragd**: Project management.
+- **MainFrame** and **BD**: Data management.
+
+---
+
+## How to Use This Repository
+This repository contains files and documentation illustrating the Quality Gates process for bus prototype development. It is structured to provide insights into each stage of the process, complete with tools and methodologies employed.
+
+### **Contents:**
+1. **QG10_Concept/**: Includes concept reports and initial feasibility studies.
+2. **QG7_ProjectPlanning/**: Features project plans, structural calculations, and supplier lists.
+3. **QG5_PrototypeConstruction/**: Contains prototype designs and testing results.
+4. **QG3_Documentation/**: Provides final documentation and industrialization plans.
+5. **QG1_Finalization/**: Includes production monitoring data and final project reports.
+
+---
+
+Feel free to explore the repository to learn more about the Quality Gates framework for industrial projects.
